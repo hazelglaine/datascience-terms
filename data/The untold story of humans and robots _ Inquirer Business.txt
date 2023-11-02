@@ -1,0 +1,29 @@
+Ever since their commercial debut in 2008, collaborative robots, or cobots, have been working alongside humans across industries.In 2016 the cobot market accelerated, growing a whopping 50 percent. It is forecast to hit $3 billion in global sales by 2020, making it one of the fastest growing segments of industrial robots.
+ADVERTISEMENT
+
+
+
+
+
+What sets these cobots apart from industrial robots is their ability to work in close proximity to people, even in areas with limited physical space.In the Philippines, a rising manufacturing hub in Asia, the adoption of cobots will herald a new man-machine affair that is largely collaborative. The country is one of the world’s fastest growing economies, recording 6.8 percent growth in 2016, with the manufacturing sector registering a double-digit increase in output in the same year.FEATURED STORIES
+BUSINESS
+Shopee to downsize PH workforce
+
+BUSINESS
+Philippines’ Globe sells telecoms towers for $340M
+
+BUSINESS
+Ayala signs on Consing as chief; Zobel returns as ‘special adviser’
+In a country that boasts a thriving manufacturing sector, cobots have a lot to offer.Safer manufacturing
+
+
+
+In factories where production processes are often monotonous or at times potentially hazardous, cobots are well-equipped to take over some tasks from employees, who can then be re-designated to more rewarding responsibilities.Deploying cobots for strenuous, repetitive tasks, or those such as welding, grinding and chemical handling, can reduce the risk of occupational injuries and create safer working conditions—a growing emphasis within the manufacturing sector in the Philippines.For example, through the deployment of cobots, a factory in Austria is estimated to have reduced 35 percent of workdays lost to physical injury.Higher productivityBusinesses reap great benefits by deploying cobots in operations, driving greater productivity. It is estimated that people and cobots working together can boost productivity by 85 percent and greatly improve efficiency and output on most assembly lines. The ease of installation and programming of cobots have also made them particularly efficient and useful for small-scale production; employees are easily trained to operate them.
+ADVERTISEMENT
+
+
+
+
+
+Dynamic Group, an American manufacturer specializing in providing complex injection molded plastic components, uses cobots to perform several repetitive tasks that are critical to the production cycle. From tending a complete injection molding machine cycle, to packing parts into boxes on the conveyor line, cobot deployment yielded improved product consistency and a 400 percent increase in production capacity .The human-robot relationshipWhat makes the human-robot working relationship possible is advances in robotic design. The progress in technology has revolutionized industrial robotics into compact, lightweight and flexible cobots that possess a high level of operational safety.Sensors and safety features ranging from an auto-stop sensor, hand guiding, speed and separation monitoring, and power and force limiting mechanisms, enable cobots to detect and react to people working closely with them. Such features are requirements for safety certification in cobot production and deployment.The International Organization for Standardization (ISO) has established a new technical specification, ISO/TS 15066 for cobots, to supplement ISO 10218 or the standard for industrial robots.These measures ensure safety, allowing the human-robot integration on the production line to be a seamless one, and enabling cobots to adapt well into any working space and environment with minimal disruption. It also means that factories can now do away with fencing and huge, bulky protective barriers, so that employees and cobots co-exist even within a smaller factory space.Assist, not displace humansOne critical aspect in the development of cobots is the effort by cobot manufacturers to comply with the safety standards set by ISO. Conversations around the machines displacing humans neglect the fact that such compliance is meant to encourage the use of cobots in an environment where human workers are present; to assist and not displace them. In fact, the use of robotics in business has created many new jobs, with market research showing that robots will create up to two million jobs globally from 2017 to 2020. The human-cobot competitive advantageWith tough competition from Vietnam and Thailand, the Philippines will need to gradually move away from its reliance on low-cost labor to propel business growth, adopting manufacturing technologies beyond bulky machines and employing cobots along production lines. This will increase productivity and improve employees’ working conditions. As the robotics industry is set to rapidly grow, early adoption will create a competitive advantage for Philippine businesses. —CONTRIBUTEDThe author is general manager at Universal Robots, SEA & Oceania.Subscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://business.inquirer.net/227242/untold-story-humans-robots

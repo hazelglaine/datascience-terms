@@ -1,0 +1,29 @@
+According to the Asean Secretariat, around half of the population in Asean already live in urban areas. By 2025, a further 70 million people will be city dwellers. The need for our urban areas to become smarter and more resilient has become more urgent than ever.In the wake of the pandemic and the productivity gaps it has exposed, governments have been prioritizing the use of emerging technologies, such as 5G and artificial intelligence (AI), to augment their cities and digitally transform various sectors and industries.
+ADVERTISEMENT
+
+
+
+
+
+Leveraging data to power cities. The benefits of smart city initiatives are significant and can help governments achieve various economic, social, and environmental goals. Traffic data collected by sensors can determine patterns to help transportation departments relieve congested areas, sources of water leaks can be identified for repairs to be scheduled, and public security improved through smart surveillance measures.In land-scarce Singapore, for example, improving urban mobility has been a key focus area since the early ’90s. Today, it is known for having one of the best transport systems in the world, thanks to the initiatives under its strategic plan for Intelligent Transport Systems, “Smart Mobility 2030.” Using consolidated data from sensors, devices, and cameras scattered across the island, the authorities are able to effectively monitor and manage traffic flow while maximizing road capacity and enhancing transport policies.FEATURED STORIES
+OPINION
+The terrorist
+
+OPINION
+A question of survival
+
+OPINION
+Even men of steel have a soft side
+Further down south in Bandung, Indonesia, a number of software applications were developed to make government services more efficient. This included GAMPIL, a mobile application that enabled small and medium enterprises (SMEs) to register their businesses online instead of applying for permits in person at government offices. Some 60,000 new SMEs were created in three months.But having the right regulations in place is only half a job done.
+
+
+
+Making smart cities even smarter. As a foundation, smart cities need to have an agile digital backbone in place for new initiatives to be implemented at scale swiftly, as they often rely on technologies that are heavily dependent on data. Having ongoing, instantaneous access to multiple sources of data from diverse locations is what will generate the insights used for better decision-making and improving the overall quality of life.However, in a recent report by Deloitte, nearly a quarter of cities in Asia cited inadequate digital infrastructure and inflexible legacy systems as the main challenge to achieve scalability, ultimately affecting their ability to reach their development and growth targets.Furthermore, disruptive technologies often demand flexibility and are bandwidth- and data-intensive. For example, advanced medical imaging requires between 4.8 GB/s to 320 GB/s for a single file set alone. That is on top of the newly required connections — between patients, doctors, insurance, and reimbursement companies — for comprehensive telehealth services.Adapting to ever-changing demands. To meet the connectivity needs of smart cities, the underlying network should be able to adapt intuitively. For example, during citywide events, mass-impact incidents, or other periods of sudden communication needs, the network needs the ability to shift bandwidth when and where it’s most required.Unplanned traffic outages can result in productivity and economic loss, especially during a time where we are increasingly dependent on digital services both for work and leisure. As such, the network powering smart cities should have the ability to analyze data patterns, identify when and where a potential network outage will occur, and take appropriate action. This process should be automated so that when problems do occur, the network can rapidly conduct root-cause analysis, incorporate key learnings, and enable network managers to adjust policies accordingly.
+ADVERTISEMENT
+
+
+
+
+
+Using a combination of AI, software control and automation, and a programmable infrastructure will allow the network to rapidly scale, self-configure, and self-optimize by constantly assessing pressures and demands.As governments work tirelessly to promote growth in their cities by improving infrastructure and enhancing services, strong and robust connectivity from a dynamic and flexible network will simplify the complexities that come along the way. In today’s constantly evolving world, the ability to effectively pivot and adjust resources swiftly when required is an essential building block of both smart cities and networks alike.* * *Dion Leung is regional managing director of Asean, Ciena.MORE ‘COMMENTARY’ COLUMNS A new era of Philippine maritime securityHow democracies dies… slowlyFinding the best policies for the PhilippinesSubscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://opinion.inquirer.net/153772/smart-governance-in-aseans-growing-cities

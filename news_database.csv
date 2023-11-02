@@ -1,0 +1,104 @@
+site,year,link,title,data_science_count,analytics_count,big_data_count,robotics_count,artificial_intelligence_count,article_length
+PhilStar,2019,https://www.philstar.com/business/banking/2019/10/15/1960131/lends-hand-use-big-data-central-banking,UP lends hand on use of big data in central banking | Philstar.com,0.0,0,9,0,0.0,253
+PhilStar,2017,https://www.philstar.com/business/2017/01/30/1666644/our-future-digital,Our future in digital | Philstar.com,0.0,2,1,0,0.0,1531
+PhilStar,2018,https://www.philstar.com/business/2018/11/16/1868884/are-we-ready-digital-future,Are we ready  for the digital future? | Philstar.com,0.0,0,1,0,1.0,444
+PhilStar,2022,https://www.philstar.com/business/2022/05/04/2178504/alternative-facts,Alternative facts | Philstar.com,1.0,1,2,0,0.0,1238
+PhilStar,2019,https://www.philstar.com/business/2019/12/23/1979071/big-data-vs-corruption,Big data vs corruption? | Philstar.com,0.0,4,2,0,0.0,1160
+PhilStar,2022,https://www.philstar.com/the-freeman/cebu-business/2022/07/15/2195465/artificial-intelligence-privacy-and-ethical-risks,Artificial Intelligence: Privacy and Ethical Risks | The Freeman,0.0,0,1,0,5.0,859
+PhilStar,2022,https://www.philstar.com/pilipino-star-ngayon/opinyon/2022/07/05/2193142/artificial-intelligence-nakabubuti-nakasisira,"Artificial Intelligence: Nakabubuti, Nakasisira | Pilipino Star Ngayon",0.0,0,0,0,1.0,420
+PhilStar,2019,https://www.philstar.com/business/2019/04/02/1906430/will-artificial-intelligence-save-philippine-agriculture,Will artificial intelligence save Philippine agriculture? | Philstar.com,0.0,0,0,0,1.0,1205
+PhilStar,2021,https://www.philstar.com/business/2021/03/28/2087431/dti-wants-position-philippines-ai-powerhouse,DTI wants to position Philippines as AI powerhouse | Philstar.com,0.0,0,0,0,1.0,641
+PhilStar,2019,https://www.philstar.com/opinion/2019/05/24/1920407/we-must-prepare-youth-artificial-intelligence,We must prepare youth  for artificial intelligence | Philstar.com,0.0,0,0,0,1.0,1205
+PhilStar,2022,https://www.philstar.com/business/2022/07/31/2199088/biology-meets-ai,Biology meets AI | Philstar.com,0.0,0,0,0,1.0,1278
+PhilStar,2022,https://www.philstar.com/opinion/2022/06/18/2189127/artificial-intelligence,Artificial intelligence | Philstar.com,0.0,0,0,0,2.0,1085
+PhilStar,2021,https://www.philstar.com/business/2021/09/16/2127358/insular-foundation-supports-data-science-training-women,Insular Foundation supports data science training for women | Philstar.com,7.0,2,1,0,0.0,393
+PhilStar,2022,https://www.philstar.com/business/2022/09/11/2208779/more-lending-pushed-re-investments,More lending pushed for RE investments | Philstar.com,1.0,0,0,0,0.0,511
+PhilStar,2021,https://www.philstar.com/opinion/2021/05/09/2096842/ai-center-excellence,‘AI Center of Excellence’ | Philstar.com,2.0,3,1,0,1.0,1561
+PhilStar,2018,https://www.philstar.com/headlines/2018/04/13/1805633/tech-sector-can-make-philippines-developed-country-data-scientist-says,"Tech sector can make Philippines a developed country, data scientist says | Philstar.com",5.0,0,0,0,0.0,698
+PhilStar,2020,https://www.philstar.com/business/2020/02/25/1995746/philippines-grapples-meet-demand-data-analysts-pids,Philippines grapples to meet demand for data analysts — PIDS | Philstar.com,3.0,4,0,0,0.0,625
+PhilStar,2021,https://www.philstar.com/business/2021/02/21/2079183/sti-expands-offerings-data-science-courses,STI expands offerings with data science courses | Philstar.com,4.0,2,1,0,0.0,370
+PhilStar,2021,https://www.philstar.com/the-freeman/cebu-business/2021/05/01/2095106/conglomerate-employ-data-science-advance,Conglomerate to employ data science to advance | The Freeman,4.0,0,0,0,2.0,464
+PhilStar,2017,https://www.philstar.com/the-freeman/cebu-news/2017/09/13/1739038/wonders-robotics-flourishing-philippines-gem-be-admired,The wonders of Robotics flourishing in Philippines: A gem to be admired   | The Freeman,0.0,1,0,11,0.0,515
+PhilStar,2022,https://www.philstar.com/opinion/2022/01/19/2154800/dirty-politics-mars-pcci,Dirty politics mars the PCCI | Philstar.com,0.0,0,0,1,1.0,1123
+PhilStar,2022,https://www.philstar.com/the-freeman/cebu-business/2022/07/16/2195793/robotics-agriculture,Robotics for agriculture | The Freeman,0.0,0,0,3,2.0,918
+PhilStar,2018,https://www.philstar.com/business/2018/10/25/1862847/robot-concierges-soon-operate-sm-malls,Robot concierges soon to operate at SM malls | Philstar.com,0.0,0,0,1,2.0,484
+PhilStar,2017,https://www.philstar.com/business/science-and-environment/2017/09/06/1736400/giant-steps-philippines-robotics,Giant steps for Philippines robotics    | Philstar.com,0.0,1,0,11,0.0,485
+PhilStar,2022,https://www.philstar.com/the-freeman/cebu-business/2022/06/10/2187364/data-analytics-diversity-distribution-and-dynamics,"Data Analytics: Diversity, Distribution and Dynamics | The Freeman",1.0,2,1,0,2.0,644
+PhilStar,2021,https://www.philstar.com/business/2021/07/06/2110373/data-visualization-leads-better-decision-making,Data visualization leads to better decision making | Philstar.com,0.0,3,0,0,0.0,856
+PhilStar,2022,https://www.philstar.com/business/2022/05/17/2181546/rate-hike-may-dent-demand-employment,"Rate hike may dent demand, employment | Philstar.com",0.0,3,0,0,0.0,660
+PhilStar,2022,https://www.philstar.com/business/2022/07/22/2197056/philippines-debt-rose-most-southeast-asia-moodys,Philippines debt rose the most in Southeast Asia – Moody’s | Philstar.com,0.0,6,0,0,0.0,535
+PhilStar,2022,https://www.philstar.com/lifestyle/gadgets/2022/02/15/2160971/dont-be-google-privacy-focused-startups-rise-amid-googles-alleged-data-breach,'Don't be Google': Privacy-focused startups rise amid Google's alleged data breach | Philstar.com,0.0,8,0,0,0.0,925
+PhilStar,2022,https://www.philstar.com/business/2022/09/14/2209489/moodys-analytics-tightening-cycle-helped-temper-inflation,Moody’s Analytics: Tightening cycle helped temper inflation | Philstar.com,0.0,3,0,0,0.0,658
+PhilStar,2022,https://www.philstar.com/business/2022/06/23/2190211/moodys-analytics-hikes-philippine-gdp-growth-forecast,Moody’s Analytics hikes Philippine GDP growth forecast | Philstar.com,0.0,7,0,0,0.0,647
+PhilStar,2022,https://www.philstar.com/business/2022/02/17/2161278/moodys-analytics-hikes-philippine-gdp-growth-62,Moody’s Analytics hikes Philippine GDP growth to 6.2% | Philstar.com,0.0,5,0,0,0.0,565
+Inquirer,2013,https://opinion.inquirer.net/56983/what-are-big-data,What are big data? | Inquirer Opinion,0.0,1,6,0,0.0,784
+Inquirer,2022,https://newsinfo.inquirer.net/1540809/another-all-time-high-ph-records-39004-new-covid-19-cases,"Another all-time high: PH records 39,004 new COVID-19 cases | Inquirer News",0.0,0,0,0,0.0,568
+Inquirer,2019,https://opinion.inquirer.net/119581/the-future-of-work,The future of work | Inquirer Opinion,0.0,0,1,0,1.0,909
+Inquirer,2021,https://business.inquirer.net/331674/intelligent-finance-key-to-unlocking-agile-innovation-for-businesses,Intelligent finance key to unlocking agile innovation for businesses | Inquirer Business,0.0,1,1,0,1.0,1387
+Inquirer,2022,https://newsinfo.inquirer.net/1659610/salceda-suspects-contact-tracing-as-source-of-data-leak,Salceda suspects contact tracing as source of data leak | Inquirer News,0.0,0,1,0,0.0,1007
+Inquirer,2022,https://business.inquirer.net/358144/help-wanted-at-bir-data-scientists-cybersecurity-experts,"Help wanted at BIR: Data scientists, cybersecurity experts | Inquirer Business",0.0,1,1,0,0.0,1075
+Inquirer,2013,https://opinion.inquirer.net/56981/big-data-opportunities-threats,"Big data: Opportunities, threats | Inquirer Opinion",0.0,8,22,0,0.0,1890
+Inquirer,2021,https://newsinfo.inquirer.net/1443953/data-governance-to-address-covid-19-pushed,Data governance to address COVID-19 pushed | Inquirer News,0.0,2,2,0,0.0,790
+Inquirer,2022,https://business.inquirer.net/356623/digital-is-the-new-guard,Digital is the new guard | Inquirer Business,0.0,0,1,0,1.0,1845
+Inquirer,2020,https://www.inquirer.com/news/voice-scam-impersonation-fraud-bail-bond-artificial-intelligence-20200309.html,Voice scammers can impersonate your loved ones in fraudulent calls. Just ask this Center City lawyer.,0.0,0,0,0,1.0,1654
+Inquirer,2020,https://technology.inquirer.net/97851/artificial-intelligence-may-be-pandemic-lifesaver-one-day,Artificial intelligence may be pandemic lifesaver | Inquirer Technology,1.0,0,0,0,1.0,1213
+Inquirer,2021,https://entertainment.inquirer.net/415904/anthony-bourdain-documentary-deepfaking-his-voice-draws-mixed-reactions,Anthony Bourdain documentary deepfaking his voice draws mixed reactions | Inquirer Entertainment,0.0,0,0,0,1.0,1463
+Inquirer,2020,https://globalnation.inquirer.net/192504/duterte-to-un-pandemic-pushed-ph-to-boost-health-systems,Duterte to UN: Pandemic pushed PH to boost health systems | Global News,0.0,0,0,0,1.0,723
+Inquirer,2021,https://entertainment.inquirer.net/419318/what-if-the-simpsons-were-voiced-by-artificial-intelligence,What if 'The Simpsons' were voiced by artificial intelligence? | Inquirer Entertainment,0.0,0,0,0,3.0,592
+Inquirer,2017,https://business.inquirer.net/239571/megabanks-japan-embrace-artificial-intelligence-robot-technology,"Megabanks in Japan embrace artificial intelligence, robot technology | Inquirer Business",0.0,0,0,0,1.0,906
+Inquirer,2020,https://business.inquirer.net/297508/the-acceleration-of-digital-transformation,The acceleration of digital transformation | Inquirer Business,0.0,0,0,0,1.0,755
+Inquirer,2022,https://opinion.inquirer.net/153772/smart-governance-in-aseans-growing-cities,Smart governance in Asean’s growing cities | Inquirer Opinion,0.0,0,0,0,1.0,932
+Inquirer,2019,https://technology.inquirer.net/90319/vietnam-puts-priority-on-artificial-intelligence-development,Vietnam puts priority on artificial intelligence development | Inquirer Technology,1.0,0,1,0,1.0,1292
+Inquirer,2019,https://business.inquirer.net/266682/automation-ai-seen-killing-more-ph-jobs,"Automation, AI seen killing more PH jobs | Inquirer Business",0.0,0,0,0,1.0,607
+Inquirer,2019,https://cebudailynews.inquirer.net/227513/dti-ph-can-become-artificial-intelligence-powerhouse,DTI: PH can become artificial intelligence powerhouse | Cebu Daily News,0.0,0,0,0,1.0,533
+Inquirer,2022,https://technology.inquirer.net/115034/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future,Meta's Zuckerberg unveils AI projects aimed at building metaverse future | Inquirer Technology,0.0,1,0,0,3.0,1183
+Inquirer,2021,https://technology.inquirer.net/107216/when-ai-meets-the-tv-set,When AI meets the TV set | Inquirer Technology,0.0,0,0,0,4.0,694
+Inquirer,2020,https://opinion.inquirer.net/127591/artificial-intelligence-will-upend-the-philippines,Artificial intelligence will upend the Philippines | Inquirer Opinion,0.0,0,0,0,1.0,971
+Inquirer,2020,https://business.inquirer.net/309048/govt-to-implement-ai-road-map-in-2021,Gov’t to implement AI road map in 2021 | Inquirer Business,0.0,0,0,0,2.0,460
+Inquirer,2019,https://business.inquirer.net/273155/unlocking-the-full-potential-of-artificial-intelligence-in-ph,Unlocking the full potential of artificial intelligence in PH | Inquirer Business,0.0,1,0,0,1.0,1266
+Inquirer,2019,https://business.inquirer.net/264651/understand-the-future-of-work-through-artificial-intelligence-and-machine-learning,Understand the Future of Work through Artificial Intelligence and Machine Learning | Inquirer Business,0.0,0,0,0,4.0,599
+Inquirer,2022,https://opinion.inquirer.net/155271/inside-story-role-of-data-in-fight-vs-covid,Inside story: Role of data in fight vs COVID | Inquirer Opinion,1.0,0,0,0,0.0,1238
+Inquirer,2021,https://business.inquirer.net/318223/mapping-digital-poverty-in-ph,Mapping digital poverty in PH | Inquirer Business,1.0,0,3,0,2.0,1500
+Inquirer,2022,https://business.inquirer.net/351206/the-new-aboitiz,The new Aboitiz | Inquirer Business,3.0,1,0,0,2.0,1413
+Inquirer,2019,https://business.inquirer.net/285944/ph-firms-embark-on-digital-transformation,PH firms embark on digital transformation | Inquirer Business,1.0,2,0,0,1.0,1011
+Inquirer,2018,https://business.inquirer.net/257096/analytics-conference-returns-manila,Analytics Conference Returns to Manila | Inquirer Business,1.0,24,1,0,0.0,709
+Inquirer,2022,https://www.inquirer.com/business/robots-philly-ieee-amazon-toyota-penn-engineering-20220526.html,"The IEEE conference is in Philly this week, and robots are swarming Pennovation's labs",0.0,0,0,13,0.0,1955
+Inquirer,2017,https://business.inquirer.net/227242/untold-story-humans-robots,The untold story of humans and robots | Inquirer Business,0.0,0,0,3,0.0,929
+Inquirer,2020,https://business.inquirer.net/297859/covid-19-forces-rethink-of-2020-consumer-trends,COVID-19 forces rethink of 2020 consumer trends | Inquirer Business,0.0,0,0,2,1.0,1799
+Inquirer,2018,https://business.inquirer.net/256906/harnessing-automation-requires-preparation-work-disruption,Harnessing automation requires preparation for work disruption | Inquirer Business,0.0,0,0,5,2.0,1499
+Inquirer,2013,https://technology.inquirer.net/29083/farmer-robots-made-by-ph-students-to-compete-in-world-robotics-tilt,Farmer robots made by PH students to compete in World Robotics tilt | Inquirer Technology,0.0,0,0,5,0.0,1071
+Inquirer,2021,https://newsinfo.inquirer.net/1453458/look-manila-introduces-robotic-aids-for-physical-therapy,LOOK: Manila introduces robotic-aids for physical therapy | Inquirer News,0.0,0,0,1,0.0,378
+Inquirer,2018,https://pop.inquirer.net/48903/pinoy-students-design-robots-explore-protect-benham-rise,Pinoy students design robots to explore and protect Benham Rise,0.0,0,0,7,0.0,1402
+Inquirer,2014,https://business.inquirer.net/164047/robots-for-world-heritage-preservation,Robots for world heritage preservation | Inquirer Business,0.0,0,0,5,0.0,952
+Inquirer,2022,https://newsinfo.inquirer.net/1556059/inquirer-net-shifts-to-similarweb-for-online-traffic-analytics,INQUIRER.net shifts to Similarweb for online traffic analytics | Inquirer News,0.0,3,0,0,0.0,760
+ABS-CBN,2022,https://news.abs-cbn.com/news/08/04/22/up-opens-phs-first-phd-program-in-artificial-intelligence,UP opens PH's first PhD program in artificial intelligence | ABS-CBN News,0.0,0,0,0,2.0,578
+ABS-CBN,2022,https://news.abs-cbn.com/business/05/18/22/the-bots-at-heart-of-twitter-buyout-row,The 'bots' at heart of Twitter buyout row | ABS-CBN News,0.0,0,0,0,1.0,945
+ABS-CBN,2018,https://news.abs-cbn.com/business/11/22/18/robot-concierge-coming-to-sm-as-henry-sy-turns-to-ai,Robot concierge coming to SM as Henry Sy turns to AI | ABS-CBN News,0.0,0,0,0,1.0,881
+ABS-CBN,2022,https://news.abs-cbn.com/spotlight/09/28/22/no-human-could-do-that-is-ai-becoming-too-alien,No human could do that: Is AI becoming too alien? | ABS-CBN News,0.0,0,0,0,1.0,1433
+ABS-CBN,2021,https://news.abs-cbn.com/business/05/05/21/philippines-lays-out-ai-industry-road-map,Philippines lays out AI industry road map | ABS-CBN News,0.0,5,1,0,1.0,1193
+ABS-CBN,2022,https://news.abs-cbn.com/business/08/22/22/ph-ai-research-center-to-open-in-september,PH AI research center to open in September | ABS-CBN News,0.0,0,0,0,2.0,1017
+ABS-CBN,2019,https://news.abs-cbn.com/business/04/30/19/philippines-must-elevate-big-data-talent-pool-ayala-corp,Philippines must 'elevate' big data talent pool: Ayala Corp | ABS-CBN News,1.0,0,1,0,0.0,489
+ABS-CBN,2022,https://news.abs-cbn.com/business/02/14/22/presidential-aspirants-urged-to-use-tech-big-data-to-gain-support,"Presidential aspirants urged to use tech, big data to gain support | ABS-CBN News",0.0,0,0,0,0.0,748
+ABS-CBN,2022,https://news.abs-cbn.com/spotlight/02/02/22/despite-crackdown-demand-keeps-china-on-wildlife-smuggling-map,"Despite crackdown, ‘demand keeps China’ on wildlife smuggling map | ABS-CBN News",0.0,0,1,0,0.0,1423
+ABS-CBN,2019,https://news.abs-cbn.com/spotlight/09/17/19/will-dito-telecommunity-expose-philippines-to-unhampered-espionage,Will Dito Telecommunity expose Philippines to unhampered espionage? | ABS-CBN News,0.0,0,1,0,1.0,1770
+ABS-CBN,2020,https://news.abs-cbn.com/business/03/02/20/in-coronavirus-fight-china-gives-citizens-a-color-code-with-red-flags,"In coronavirus fight, China gives citizens a color code, with red flags | ABS-CBN News",0.0,0,1,0,0.0,1956
+ABS-CBN,2022,https://news.abs-cbn.com/business/05/19/22/tencent-plunges-8-pct-following-poor-results,Tencent plunges 8 pct following poor results | ABS-CBN News,0.0,0,0,0,0.0,423
+ABS-CBN,2022,https://news.abs-cbn.com/business/03/01/22/raise-facts-reduce-fakes-googles-move-in-halalan-2022,"Raise facts, reduce fakes: Google's move in Halalan 2022 | ABS-CBN News",0.0,0,1,0,0.0,988
+ABS-CBN,2017,https://news.abs-cbn.com/business/07/31/17/tapping-big-data-analytics-to-boost-business,Tapping 'big data analytics' to boost business | ABS-CBN News,1.0,2,2,0,0.0,397
+ABS-CBN,2019,https://news.abs-cbn.com/video/business/05/08/19/open-source-software-helps-organizations-mine-big-data,Open source software helps organizations mine big data | ABS-CBN News,0.0,1,1,0,0.0,407
+ABS-CBN,2020,https://news.abs-cbn.com/spotlight/04/08/20/ways-the-philippines-can-fight-the-coronavirus-contagion-according-to-a-data-scientist,"Ways the Philippines can fight the coronavirus contagion, according to a data scientist | ABS-CBN News",0.0,0,0,0,0.0,952
+ABS-CBN,2018,https://news.abs-cbn.com/business/03/01/18/ai-killing-jobs-philippines-can-be-global-hub-says-tech-startup,"AI killing jobs? Philippines can be global hub, says tech startup | ABS-CBN News",1.0,0,0,0,2.0,635
+ABS-CBN,2022,https://news.abs-cbn.com/video/life/06/26/22/mga-batang-fil-am-wagi-sa-world-robotics-competition,"Mga batang Fil-Am, wagi sa world robotics competition | ABS-CBN News",,0,0,1,,364
+ABS-CBN,2019,https://news.abs-cbn.com/overseas/08/05/19/ph-robotics-team-wins-gold-in-denmark-tourney,PH robotics team wins gold in Denmark tourney | ABS-CBN News,,0,0,3,,739
+ABS-CBN,2009,https://news.abs-cbn.com/nation/youth/03/30/09/pinoy-team-qualifies-world-robotics-championships-final,(2nd update) Pinoy team qualifies for world robotics championships final | ABS-CBN News,,0,0,7,,1286
+ABS-CBN,2017,https://news.abs-cbn.com/business/11/10/17/filipino-teens-showcase-diy-droids-in-world-robot-games,Filipino teens showcase DIY droids in World Robot Games | ABS-CBN News,,0,0,5,,655
+ABS-CBN,2020,https://news.abs-cbn.com/life/04/14/20/ust-engineer-creates-robot-to-assist-covid-19-medical-frontliners,UST engineer creates robot to assist COVID-19 medical frontliners | ABS-CBN News,,0,0,1,,1080
+ABS-CBN,2022,https://news.abs-cbn.com/news/09/03/22/ph-covid-19-situation-improving-says-analyst,"PH COVID-19 situation 'improving,' says analyst | ABS-CBN News",,1,0,0,,571
+ABS-CBN,2022,https://www.abs-cbn.com/newsroom/news-releases/2022/5/3/halalan-2022-abs-cbn-news-special-coverage-may-9?lang=en,"“Halalan 2022: The ABS-CBN News Special Coverage” goes digital, streams on YouTube starting May 9  ",,2,0,0,,765
+ABS-CBN,2022,https://news.abs-cbn.com/news/07/16/22/doh-active-covid-19-cases-near-19000,"DOH: Active COVID-19 cases near 19,000 | ABS-CBN News",,1,0,0,,414
+ABS-CBN,2022,https://news.abs-cbn.com/news/06/27/22/covid-19-cases-up-by-53-pct-health-dept,COVID-19 cases up by 53 pct: health dept | ABS-CBN News,,1,0,0,,754
+ABS-CBN,2022,https://news.abs-cbn.com/news/07/06/22/philippines-records-1198-new-covid-19-cases-12-new-deaths,"Philippines records 1,198 new COVID-19 cases, 12 new deaths | ABS-CBN News",,1,0,0,,553
+ABS-CBN,2022,https://news.abs-cbn.com/news/05/29/22/philippines-confirms-200-new-covid-19-cases,Philippines confirms 200 new COVID-19 cases | ABS-CBN News,,1,0,0,,550
+PhilStar,2022,https://www.philstar.com/business/2022/04/27/2176961/moodys-analytics-cuts-philippines-2022-target,Moody’s Analytics cuts Philippines 2022 target | Philstar.com,,5,0,0,,462
+Inquirer,2022,https://business.inquirer.net/341500/celebrating-10-years-of-information-and-analytics-knowledge-services,Celebrating 10 years of information and analytics knowledge services,,5,0,0,,824
+ABS-CBN,2017,https://news.abs-cbn.com/business/10/20/17/big-data-nears-boom-in-philippines-research-firm,Big data nears boom in Philippines: research firm | ABS-CBN News,,1,3,0,,400

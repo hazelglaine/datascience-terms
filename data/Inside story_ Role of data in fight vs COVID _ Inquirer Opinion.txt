@@ -1,0 +1,40 @@
+Early 2020, COVID-19 had initially arrived at our shores through a handful of Wuhan tourists, but there was still very little local spread. There was, in fact, more spread in the small island state of Singapore. So my husband, Joseph, the Philippine ambassador to Singapore at that time, and I would spend the end of each day checking the Singapore Ministry of Health (MOH) website for the latest statistics on COVID-19.
+ADVERTISEMENT
+
+
+
+
+
+Around March of 2020, COVID-19 started breaking out in Manila with the Diamond Cruise strain. Unfortunately, there was no website similar to that of the Singapore MOH in the Philippines. I felt very uncomfortable not knowing what was going on except for anecdotes, Viber posts, and rumors. I thought to myself—how would our leaders be able to fight this battle if they do not have the necessary updated information on hand?In my business position, I am responsible for the health and welfare of my Filinvest family and our businesses’ financial health. I assessed the situation and realized that this fight is different if public health is at risk. It is no longer against our competitors but against a new and invisible enemy. I spent many sleepless nights researching COVID-19. I felt I had to learn as much as I could about the enemy.FEATURED STORIES
+OPINION
+The terrorist
+
+OPINION
+A question of survival
+
+OPINION
+Even men of steel have a soft side
+I decided I had to get involved. I cold-called Department of Science and Technology Secretary Fortunato de la Peña and I told him that Filinvest and its foundations wanted to contribute a data warehouse and create a data dashboard so that we could keep track of COVID-19. He readily gave the go-ahead signal, together with Health Secretary Francisco Duque III. The one benefit of a pandemic is that the civil service gets to be less bureaucratic as everyone readily accepted help, especially since the world was in a quandary.I asked a data science company, Thinking Machines, if they had a team ready, and they hit the ground running. It took the team about a month to get the first basic Department of Health (DOH) COVID-19 dashboard up. Dr. Beverly Ho of the DOH was very open to new ideas and suggestions and was the main point person. I was told that doing a data warehouse and a dashboard was extremely demanding while dealing with a decentralized and inadequate data infrastructure simultaneously, especially with such a short timeline.
+
+
+
+Putting up the data warehouse was just the first step. The data needs to come in clean and fast. Data was coming in slow, dirty, and incomplete. We dealt with different laboratories with their own data capture systems and fields. The biggest hurdle was agreeing on the data capture system. The T3 team (Test, Trace, and Treat) successfully built up the country’s daily testing capacity from 3,000 to 30,000 by May 2020, and it kept going up. Getting all the newly accredited labs on board added to the challenge. The available system being used proved to be inadequate and impractical. In the end, together with the Department of Information and Communications Technology, our company’s IT team headed by Jun Andal set up CDRS, a practical system that was able to screen the dirty data and simplify the process by downloading from the excel files most laboratories were using. The human factor cannot be discounted. There were persistent calls to data encoders to get their cooperation to use the new system, including using the barangay data of the COVID-19 cases instead of the laboratories’ data. This was the turning point when data became cleaner and more timely. I say—“Perfection would have been the enemy of progress.” You live with what you have and, with agility, keep improving it along the way. We have since turned over the CDRS to the government.Gathering COVID-19 case data for new case surges, barangay “hot spot” clusters and death trends was just the tip of the iceberg. In managing the pandemic, data on the availability of test kits and its related supplies (swabs, reagents, et al.), hospital and quarantine center beds and their occupancy rates had to all be pieced together. A devolved public health care system, without a central disease control and prevention agency, was the crux of the challenge. A disjointed public health data infrastructure involving public and private hospitals and local government units (LGUs) will require many more investments for future-proofing.In the process, it was a privilege for me to work with the T3 team headed by Vince Dizon. I believe this COVID-19 fight to be the most successful public-private partnership endeavor of any government—borne out of love of country. A big part of T3’s role was coordinating all the other stakeholders, DOH, Congress, LGUs, etc., to agree on what needed to be done, to make available relevant data as the basis for decision-making so that the necessary resources and manpower could be provided and the policies and processes could all be aligned.I am truly saddened for those who have suffered loss and heartbreak because of this terrible disease. My great hope is that the lessons learned and the data infrastructure developed during this COVID-19 pandemic will be further enhanced so that we will be ready to fight the next pandemic, focused on the people and disease, with the necessary data infrastructure as a critical tool and not as a handicap.——————
+ADVERTISEMENT
+
+
+
+
+
+ L. Josephine Gotianun Yap is chair of the Filinvest Group.——————Business Matters is a project of the Makati Business Club ([email protected]).
+
+For more news about the novel coronavirus click here.
+
+What you need to know about Coronavirus.
+
+For more information on COVID-19, call the DOH Hotline: (02) 86517800 local 1149/1150.
+
+The Inquirer Foundation supports our healthcare frontliners and is still accepting cash donations to be
+deposited at Banco de Oro (BDO) current account #007960018860 or donate through PayMaya using this
+ link.
+Subscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://opinion.inquirer.net/155271/inside-story-role-of-data-in-fight-vs-covid

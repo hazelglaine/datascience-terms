@@ -1,0 +1,29 @@
+FILE PHOTOMANILA, Philippines — The country’s leading online news site, INQUIRER.net, has decided to tap the services of data analytics provider Similarweb for the monitoring of online traffic and as well as for guidance in content and publication strategies.Inquirer Interactive Inc. chairperson and president Paolo R. Prieto confirmed the development, as the website ranking application programming interface (API) used by INQUIRER.net — Alexa Internet — will cease operations by May 2022 according to its parent company Amazon.
+ADVERTISEMENT
+
+
+
+
+
+Prieto said the decision to tap Similarweb is a result of INQUIRER.net’s desire to stay on top, which then required the search for a globally-accepted ranking application.  This would ensure that INQUIRER.net’s web traffic analytics operations will not be interrupted, as Similarweb’s web ranking API can also monitor trends in the country’s online news cycle.“The decision to switch to Similarweb is a necessity with the impending closure of Alexa. Alexa has served our needs for years, in particular with its ranking which is a globally accepted measuring stick for our online traffic versus competitors,” he said in a statement.FEATURED STORIES
+NEWSINFO
+‘Leni’, ‘Nasaan si Leni?’ trend on Twitter as netizens look for ex-VP Robredo amid Karding
+
+NEWSINFO
+‘Sardinas ang ulam’: Senators lament soldiers’ P150 daily subsistence allowance
+
+NEWSINFO
+Charges readied vs gov’t guard with P290-M deposits
+“In seeking out a replacement, we looked for two things. First, a globally accepted ranking that would be accepted by our stakeholders. Second, we wanted an innovative technology partner that would help us improve our insights and analytics as we seek to stay on top of the news publishing industry in the Philippines,” he added.In a statement last January 2022, Similarweb said that its website-ranking API was really intended to help Alexa customers shift to another platform after the recent developments.
+
+
+
+“The new free service is one of the several steps Similarweb is taking to help Alexa.com customers affected by Amazon’s decision to sunset that service in May 2022,” Similarweb said in a press release.“Alexa.com customers can also instantly view Similarweb site ranking for free on the web. And for the first time, Similarweb is launching a self-service offering, based on its premier digital intelligence platform, that will address Alexa.com users’ needs and use cases. This new offering will be available in all markets globally through a simple credit card transaction,” it added.Similarweb claims to provide a myriad of benefits that would help INQUIRER.net stay competitive in terms of content delivery and traffic generation, like being able to “make strategic decisions based on the most comprehensive, real-time view of competitive activity across all digital marketing channels”.Also, the website-ranking API from Similarweb says that their interface can obtain important data about the audience’s demographic and psychographics, or behavioral information which Alexa.com has not been able to provide.What this does, the company says, is to improve targeting and user retention activities for a website like INQUIRER.net.
+ADVERTISEMENT
+
+
+
+
+
+ “Similarweb has always been a leader in terms of the data our users get and the quality and accuracy our insights provide,” said Similarweb chief executive officer and founder Or Offer.“Although it’s a bittersweet moment with the closing of Alexa.com, I’m excited for the opportunity it presents to expand our reach even further as we become the standard for digital rankings and global website intelligence,” he added./MUFSubscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://newsinfo.inquirer.net/1556059/inquirer-net-shifts-to-similarweb-for-online-traffic-analytics

@@ -1,0 +1,32 @@
+FILE PHOTO: Small toy figures are seen in front of displayed Facebook’s new rebrand logo Meta in this illustration taken, October 28, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoFacebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants, and translate between languages, CEO Mark Zuckerberg said Wednesday, as he sketched out key steps to building the metaverse.Zuckerberg is betting that the metaverse, a futuristic idea of virtual environments where users can work, socialize and play, will be the successor to the mobile internet.
+ADVERTISEMENT
+
+
+
+
+
+“The key to unlocking a lot of these advances is AI,” he said, speaking at the company’s live-streamed “Inside the Lab” event.Zuckerberg said Meta was working on a new class of generative AI models that will allow people to describe a world and generate aspects of it. In a prerecorded demo, Zuckerberg showcased an AI concept called Builder Bot, where he appeared as a legless 3D avatar on an island and gave speech commands to create a beach and then add clouds, trees, and even a picnic blanket.FEATURED STORIES
+TECHNOLOGY
+Wait, We Will Get An iPhone 15 Soon?!
+
+TECHNOLOGY
+How methane leaks accelerate global warming
+
+TECHNOLOGY
+Reignite your passion with the vivo Y35
+“As we advance this technology further, you’ll be able to create nuanced worlds to explore and share experiences with others, with just your voice,” said Zuckerberg. He did not set a timeline for these advancements or give more details on how Builder Bot works.He said Meta was working on AI research to allow people to have more natural conversations with voice assistants, a step towards how people will communicate with AI in the metaverse. He said the company’s Project CAIRaoke was “a fully end-to-end neural model for building on-device assistants.”
+
+
+
+A demonstration of the Project CAIRaoke tech showed a family using it to help cook a stew, with the voice assistant chiming in to warn that salt had already been added to the pot. The assistant also noticed they were running low on salt and ordered more.Meta said it was using the model within its video-calling Portal device and aimed to integrate it into devices with augmented reality (AR) and virtual reality (VR). In an interview with Reuters, Meta’s vice president for AI Jérôme Pesenti said it was tightly restricting the responses of its new CAIRaoke-based assistant until it could ensure that the system did not generate offensive language.“These language models are very powerful … so we are making a lot of effort to be able to control them,” said Pesenti.Zuckerberg also announced that Meta was working on a universal speech translator, aiming to provide instant speech-to-speech translation across all languages. The company previously set a goal for its AI system to translate all written languages.The social media company, which recently lost a third of its market value after a dismal earnings report, has invested heavily in its new focus on building the metaverse and changed its name to reflect this ambition. This month Meta reported a 2021 net loss of $10.2 billion from its Reality Labs, the company’s augmented and virtual reality business.
+ADVERTISEMENT
+
+
+
+
+
+Meta is exploring how artificial intelligence can be used to moderate content and activity in the metaverse, its AI head Pesenti told Reuters.“We use a lot of AI for moderation on our main platforms … the metaverse is a bit of a different beast, it’s a lot more real-time,” said Pesenti, who said this was “evolving work” and that Meta was still figuring out the policies for metaverse activity.At the AI event, Zuckerberg said Meta was preparing for how AI could interpret and predict the types of interactions that would occur in the metaverse, by working on “self-supervised learning” – where AI is given raw data rather than being trained on lots of labeled data.Zuckerberg said Meta was also working on egocentric data, which involves seeing worlds from a first-person perspective. He said it had brought together a global consortium of 13 universities and labs to work on the largest ever egocentric dataset, called Ego4D.Meta also said it would expand free education initiatives aimed at bringing more racial minorities into tech, which researchers say is critical to creating AI systems free of bias. About 80% of data analytics and AI executives identify as men and 65% as white, according to a recent survey across the United States and Europe by recruiter Heidrick & Struggles. In a nod toward transparency, Meta plans to make open source the recommendations library TorchRec that it uses to personalize products like Facebook’s news feed, said Pesenti in another event session. The company also will publish a feed ranking prototype to show how its algorithms prioritize which content it displays to users on Instagram, he said.Some of the projects Meta announced on Wednesday, such as Project CAIRaoke and the algorithm transparency effort, follow similar innovations announced in recent years by rivals such as Alphabet Inc’s Google.Meta also recently announced its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid-2022.RELATED STORIESTech CEO calls Meta’s metaverse an ‘old idea’ that ‘never worked’
+Investing in the metaverse: Look before you leap
+Meta shares plunge 20% as Facebook owner sees slowing growth
+Facebook to be called Meta in nod to its ‘metaverse’ visionBy providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.Subscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.By providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://technology.inquirer.net/115034/metas-zuckerberg-unveils-ai-projects-aimed-at-building-metaverse-future

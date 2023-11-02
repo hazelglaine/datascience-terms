@@ -1,0 +1,30 @@
+Bureau of Internal Revenue (BIR) | INQUIRER.net file photoMANILA, Philippines—As it pushes forward with a digital shift to shore up collections, the Bureau of Internal Revenue (BIR) is looking for data scientists and cybersecurity experts to join the country’s biggest tax agency, Commissioner Lilia Guillermo said on Friday (Aug. 19).But while the BIR was already providing digital infrastructure to move to electronic services, like e-invoicing, many in the private sector remained resistant to digitalization, as shown by the low number of participants in the ongoing electronic invoicing pilot program, Guillermo said at the first SGV tax symposium.
+ADVERTISEMENT
+
+
+
+
+
+Guillermo told the forum that “rightsizing” for the BIR meant beefing up its personnel in the forefront of the agency’s digital transformation program.Before the COVID-19 pandemic, the BIR in 2019 unveiled its 2030 digital transformation roadmap aimed at making all transactions with clients instantaneous and seamless. Under the roadmap, the BIR plans to provide taxpayers 24-hours-a-day, seven-days-a-week access to services via online systems and mobile applications starting this year.FEATURED STORIES
+BUSINESS
+Shopee to downsize PH workforce
+
+BUSINESS
+Philippines’ Globe sells telecoms towers for $340M
+
+BUSINESS
+Ayala signs on Consing as chief; Zobel returns as ‘special adviser’
+In an interview, Guillermo said the BIR was looking for fresh graduates who may be interested to become data scientists and cybersecurity experts. The BIR chief said the bureau needed six to eight cybersecurity experts and the same number of data scientists.However, Guillermo conceded that it may be hard to attract such specialized talents as compensation at the BIR was not at par with those being offered by the private sector. While her BIR predecessors had pushed for exemption from the salary standardization law (SSL), Guillermo said it may be difficult to legislate it at this time.
+
+
+
+In the meantime, Guillermo said the BIR recently hired six new statisticians, who can be trained to become data scientists.Also, Guillermo said the bureau was looking at hiring consultants who would enjoy bigger pay, but likely with no security of tenure as contractual workers.Digitalization had been identified by Guillermo and Finance Secretary Benjamin Diokno as one way for the BIR to catch up with its revenue target of P2.44 trillion for 2022. In the first half of the year, the BIR collected P1.14 trillion in taxes, which was 6.3-percent short of the P1.21-trillion target for the six-month period. The BIR chief said July collections likely hit the P201.5-billion goal for the month.To run after social media influencers earning huge money and “big-time” online sellers, the BIR planned to tap data analytics to process big data from social media sites, Guillermo said.She said the BIR temporarily suspended audits on social media influencers and online sellers, but will resume it within the year. She added that the BIR will seek the help of global e-commerce platforms—like Lazada and Shopee —to provide data on online sales while addressing concerns on data privacy.
+ADVERTISEMENT
+
+
+
+
+
+Also, Guillermo said the BIR planned to implement no-contact audits through an enhanced, computerized selection of taxpayers who will undergo an audit. “It will be risk-based and automated. The computer will choose,” the BIR chief said, citing complaints from some taxpayers who had lamented “very subjective” manual audits.However, Guillermo said only 15 firms have so far participated in the pilot program for electronic invoicing and issuance of e-receipts, as many more companies deferred participation. The BIR had targeted 100 participants among big corporations, e-commerce players, as well as exporters.Guillermo said many businesses preferred to still use manual invoicing and paper receipts. “We’re thinking of a strategy to mandate e-invoicing and e-receipts,” she said, citing the start last June of the electronic invoicing/receipting and sales reporting system. Funded by a grant from the South Korean government, the BIR had opened a state-of-the-art data center for this e-invoicing system.“For those who are prepared to implement e-invoicing and e-receipts, please volunteer — we gave you two months to prepare, and we gave you the system already,” Guillermo said. She cited the benefits of electronic invoicing and receipting system, which included “very convenient” audits as it would do away with piles of paper receipts.The e-invoicing system involved businesses issuing e-receipts to their customers, then electronically transmitting their sales reports to the BIR, as mandated by the Tax Reform for Acceleration and Inclusion (TRAIN) Act. The prolonged COVID-19 pandemic had delayed the project’s implementation, which was originally scheduled for rollout in 2020.Pre-pandemic, the government targeted a complete shift to e-invoicing in 2022, as part of the planned “digital transformation” in tax administration.
+Firms belonging to the BIR’s large taxpayers’ service (LTS), as well as micro, small, and medium enterprises (MSMEs), would be asked to adopt e-invoicing by next year, officials had said.TSBSubscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://business.inquirer.net/358144/help-wanted-at-bir-data-scientists-cybersecurity-experts

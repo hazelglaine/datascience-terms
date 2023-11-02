@@ -1,0 +1,31 @@
+MANILA, Philippines — Contact tracing conducted by business establishments at the height of the COVID-19 pandemic is possibly one of the culprits behind the spate of scam text messages sent to mobile phone users.
+ADVERTISEMENT
+
+
+
+
+
+This was according to Albay Rep. Joey Salceda, who called out the Inter-Agency Task Force for the Management of Emerging Infectious Diseases (IATF) for being “careless” in securing the privacy of contact tracing data.“The IATF did not push hard enough and enforce a single contact tracing app with a single database. That means [the task force] had different data collectors, some of whom may not have been able to protect data,” he said in a statement.FEATURED STORIES
+NEWSINFO
+UP, other schools’ skipping of full face-to-face classes irks Pia Cayetano
+
+NEWSINFO
+Charges readied vs gov’t guard with P290-M deposits
+
+NEWSINFO
+Badoy not with Office of the President, NTF-Elcac, under Marcos admin — solon
+“I don’t want to ascribe malice, but some of them may have even sold it,” he added.“All of these potential data breaches could have been limited by having just one single controller and clearinghouse of data that is also protected and audited,” he said further.
+
+
+
+The task force was contacted for comment regarding Salceda’s observations, but had yet to reply, as of this writing.Contact tracing began soon after the pandemic hit the country in March 2020.Salceda noted that “privacy guidelines [on information from contact tracing] were issued only in June [that year].”“So you had three months where it was a ‘Wild West’ for data privacy. There was no sheriff in town for three months at least. That’s the only big data source I can identify,” he said.“[Considering that] banking is now so interconnected with mobile numbers, we should treat mobile numbers with the same care as we treat banking. There’s money for thieves to steal in data breaches,” added the lawmaker, who said he, too, received scam messages with his name.
+ADVERTISEMENT
+
+
+
+
+
+Salceda said the National Telecommunications Commission (NTC) should work with telcos to detect and prevent the “mass of successive text messages” sent to subscribers.The NTC has indeed ordered these companies to text-blast their subscribers and submit a report of compliance by Friday.Moreover, the National Privacy Commission (NPC) should find the source of the data breach, Salceda said.The commission said earlier it is already looking into the proliferation of scam messages.Salceda also cited Republic Act No. 10173 or the Data Privacy Act of 2012, which requires data controllers to notify the NPC if personal information that may be used in identity fraud could have been obtained by an unauthorized party.“The data controllers seem to have been incapable of protecting all data. And there [had been] plenty of room for breaches because there were so many data controllers, by virtue of having multiple contact tracing apps,” Salceda said.But Angel Redoble, chief information security officer of Smart Communications Inc., said when reached for comment that “there is no evidence to suggest a breach in our systems that would have given perpetrators access to the mobile numbers and names of our subscribers.”He also said: “These [scam] messages do not originate from [our] aggregators or their customers.”Data aggregators, as defined by the NPC, are “entities tapped by companies such as global brands to act on their behalf and deal with telcos in blasting promotions and other company messages to their customers.”Meanwhile, Ingrid Rose Ann Beroña, chief risk officer of GCash, said the Ayala-owned e-wallet service provider has already “migrat[ed] [its] transaction confirmation messages from text messages to the app inbox.”
+
+She said this is to “help ensure users are only getting legitimate messages regarding their GCash transactions.”The slew of scam text messages has prompted lawmakers to look into that matter and even reintroduce the proposed SIM Card Registration Act, which then-President Rodrigo Duterte vetoed last April because of its provision including social media providers in the registration. On Monday, the House information and communications technology committee approved that consolidated bill from the 18th Congress. Salceda, who heads the committee on ways and means, said this was allowed under House Rule 10, Section 48.Also that day, AGRI Rep. Wilbert Lee filed a resolution calling for an investigation into the scam messages, while Sen. Nancy Binay filed a similar measure in her chamber.According to Sen. Grace Poe, the Senate committee on public services, which she heads, will begin its own inquiry on Thursday.RELATED STORIESSenators alarmed as they too become targets of text scamsText scam that knows phone user’s name raises alarmTelco contractors may be sources of data in text scamsSubscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://newsinfo.inquirer.net/1659610/salceda-suspects-contact-tracing-as-source-of-data-leak

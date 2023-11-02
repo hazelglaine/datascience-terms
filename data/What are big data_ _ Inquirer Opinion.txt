@@ -1,0 +1,29 @@
+Former National Security Agency contractor Edward Snowden’s revelations of the US government’s “Prism” program has sparked debates on several fronts, but mainly over citizens’ rights to the privacy of their online data.The less controversial side of the discussion, however, revolves around the concept of “big data,” a relatively new kind of technology that helps organizations make sense of the massive amounts of information they get from customers or in the US government’s case, its own people.
+ADVERTISEMENT
+
+
+
+
+
+To the layman, this begs the question of what big data are. “Big data,” as a term, can be deceptive. These two words may be too simple a name for the concept it refers to.According to a recent report by research firm McKinsey Global Institute, big data mean any database “whose size is beyond the ability of typical database software tools to capture, store, manage and analyze.”FEATURED STORIES
+OPINION
+The terrorist
+
+OPINION
+A question of survival
+
+OPINION
+Even men of steel have a soft side
+There’s a broad range of data that can be stored and analyzed, ranging from the places people eat, who their friends are and where they live to the types of e-mails they open (and the types of e-mails they automatically delete), and the kinds of Internet ads they click on.Capturing all of this is made possible thanks to smartphones, which are increasingly becoming vital to people’s everyday lives.
+
+
+
+McKinsey admits that its own definition is “intentionally subjective” for several reasons.The first is that there is currently no consensus on what amount of data can be considered big. Most IT industry players agree that the specific size, in terms of the number of gigabytes, was a moving target.With advancements in technology, what may seem big to people today may very well seem tiny tomorrow.A recent study by IBM showed that 90 percent of all the digital data in existence today was created in the last two years. In 2011, Internet users generated 1.8 petabytes of information. To put this in perspective, one petabyte can store about 13 years worth of HD television content.In 2012, estimates show that the number grew to 2.7 petabytes.
+ADVERTISEMENT
+
+
+
+
+
+Some 130,000 websites are up, 500 terabytes of photos are posted on Facebook and 144 billion e-mails are sent every day, according to Niño Valmonte, marketing director at IP Converge Data Centers.Video-streaming site YouTube.com gets 72 hours of fresh content every 60 seconds.All this information is uploaded via the Internet and stored on a network of servers around the globe, often referred to nowadays as the “cloud.”Thanks to smartphones, almost every kind of activity that people engage in are recorded. Every new friendship made is captured on Facebook, every thought is broadcast on Twitter and every place visited is tracked using Foursquare. People even show off every meal using Instagram.Ronnie Latinazo, the country general manager for multinational data storage firm EMC, describes data as a “natural resource” that so far, very few have mined. The most logical application of big data is for companies that deal directly with consumers. Using the insight they get from analyzing their customers, companies can tailor-fit their services to each individual.Latinazo said credit card companies were in a good position to take advantage of data analytics. He said the companies would be able to study consumer-buying patterns to be able to offer them perks that suit their needs.The more disconcerting application of big data, Latinazo says, is government spying on citizens. Whether that is wise or not, just ask Snowden. Paolo G. MontecilloSubscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://opinion.inquirer.net/56983/what-are-big-data

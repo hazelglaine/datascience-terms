@@ -1,0 +1,31 @@
+MANILA, Philippines — Robots that can take care of an entire rice field, go underwater to provide a view of the reefs and prevent ships from running aground.Sounds like these were made by high-tech million-dollar companies? Think again.
+ADVERTISEMENT
+
+
+
+
+
+These robots, which were showcased during the finals of the 12th Philippine Robotics Olympiad, are all made by high school and elementary students in the Philippines.The Dr. Yangas Colleges Inc. (DYCI) high school team, which created an entire set of robots aimed at taking care of the Banaue Rice Terraces, won first place and is set to defend its championship in the 2013 World Robotics Olympiad in Jakarta, Indonesia on November 15.FEATURED STORIES
+TECHNOLOGY
+Wait, We Will Get An iPhone 15 Soon?!
+
+TECHNOLOGY
+How methane leaks accelerate global warming
+
+TECHNOLOGY
+Reignite your passion with the vivo Y35
+The team created three robots called ProTek, ProGrow, and ProTrek, in accordance with the competition’s theme of “Promotion and Protection of World Heritage.”ProGrow, a remote controlled drone with a camera, is capable of going around muddy fields watering plants, sprinkling fertilizer and even testing the soil’s quality.
+
+
+
+ProTek is another remote controlled drone equipped with a camera and headlights that can keep away pests from fields by emitting ultrasonic waves up to a 200 meter radius.It also has a robotic arm that can take samples of plants and a weather vane to measure wind speed that sends an alert when it reaches dangerous levels that can adversely affect the plants.ProTek is also capable of remotely controlling a separate robotic irrigation dam so that the water level will not go down in the fields.The third robot is a robotic backpack called ProTrek that is equipped with lights, navigation equipment, a polaroid camera, first aid kit, and a tracker that can pinpoint its location.All three robots are connected to a control center where the video feed from their cameras can be seen. This is also where the readings of the instruments are displayed.
+ADVERTISEMENT
+
+
+
+
+
+The remote controls of the drones are wireless and use Bluetooth technology.The team composed of King Olgado, 14, Anne Jazpher Raz, 14, and Rey Allen infante, 12, said that their inspiration for the three robots came from Ifugao folklore.ProGrow was inspired by “Wigan” or the God of good harvest, ProTek by “Bul-Ul” or the guardian and protector of the rice terraces and ProTrek was inspired by the “Pakising” or the native backpack of the Ifugao.They also made a robotic book dubbed “Basyang” that is fully interactive with a video presentation detailing the history of the Banaue Rice Terraces and the present problems confronting the world heritage site. It is capable of automatically turning each page.The DYCI grade school team also won first place in the elementary level with their submersible robot  “Neo Ecological Marine Operative” or Nemo built to clean oil spills from the seas.The members of the team Nico Navatilan, 12, Raingel Mendoza, 11, and Aldrine Cristobal, 11, said they were inspired to build the robot after the grounding of the US Navy ship USS Guardian on the Tubbataha Reefs which destroyed thousands of square feet of corals.Nemo, which was named after the fish featured in an animated film, is fully remote-controlled and works in tandem with two other robots to protect the seas. One is an underwater camera that can provide an underwater view for those who do not know how to dive with scuba gear and another is a robot that can detect oil spills and send alarm signals to the Coast Guard.The first runner-up in the high school category is a team from Grace Christian College composed of Patricia Ong, Shaina Santiago and Calvin Ng.Grace Christian College won second place in the previous World Robotics Olympiad. Ong was also a part of the previous team.Their entry for this year is “Submerged Zone Exploring Robot,” or “Sub Zero” for short, which is an underwater robot equipped with cameras that aims to give tourists a view of reefs without having to go underwater.
+
+Working in tandem with Sub Zero is “Ward” which stands for “Water and Reef Defense,” a robot that can detect nearby ships and send an alert to prevent ships from getting grounded on reefs.Ward shows the ships it has detected on a Graphic User Interface (GUI) that was designed entirely by the team.The World Robotics Olympiad also has a Robot Soccer category in the high school and elementary divisions. Marie Ernestine School won first place in the elementary division followed by Tibagan Elem School B and Science and Technology Education center B.In the high school division, Science and Technology Education Center-Science and Technology high school won first place followed by Benigno S. Aquino High School B and Dr. Caridad C. Labe Education Centrex Inc. A.All the top winning teams will compete in the international World Robotics Olympiad in Jakarta, Indonesia from November 15 to 17.By providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.Subscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.By providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://technology.inquirer.net/29083/farmer-robots-made-by-ph-students-to-compete-in-world-robotics-tilt

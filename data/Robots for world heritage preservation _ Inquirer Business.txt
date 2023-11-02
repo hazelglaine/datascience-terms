@@ -1,0 +1,29 @@
+YOUNG MECHANICS The DYCI Robotics Team bagged silver medals in both elementary and secondary levels in the recent WRO 2013. From left: Aldrine Cristobal, Raingel Vryse Mendoza, Julius Nicholai Navatilan, Anne Jazpher Raz, King Johnnel Olgado and Rey Allen Infante. Photo by Jilson Seckler TiuIn this day and age when machines make our life easier, six kids strived to come up with something that can save the world.In the recently concluded World Robotics Olympiad 2013 in Jakarta, the students of Dr. Yanga’s Colleges Inc. (DYCI) emerged as young brilliant minds who showcased their inventions on how to promote and protect the Philippines’ world heritage sites—the Tubbataha Reefs in Puerto Princesa, Palawan and the Banaue Rice Terraces in Mt. Province.
+ADVERTISEMENT
+
+
+
+
+
+The Junior Primes, composed of fifth-grader Raingel Vyrse Mendoza, and sixth-graders Aldrine Drebb Cristobal and Julius Nicholai Navatilan, conceived robots that will work altogether to protect the Tubbataha Reefs Natural Park.The three robots—namely Detection of Oil for Rescue Intervention (Dori), Neo-Ecological Marine Operative (Nemo) and the crane-like machine Sebastian’s Claw—are designed to detect and dispose oil spill activities in the Reefs. If there are any oil spills, the Dori will activate the alarm system of the Nemo to release booms that will suck the oil in the waters.FEATURED STORIES
+BUSINESS
+Shopee to downsize PH workforce
+
+BUSINESS
+Philippines’ Globe sells telecoms towers for $340M
+
+BUSINESS
+Ayala signs on Consing as chief; Zobel returns as ‘special adviser’
+Full-scale submarineThrough a remote control, the full-scale submarine Nemo will submerge and surface in the waters and later dispense the booms that contain the oil spill. The Sebastian’s Claw will collect the booms and place it in a special container to be disposed afterward.
+
+
+
+The Nemo has a wireless camera that will transmit live videos of the Reefs to a monitor in land. It is specifically designed for the promotion of Tubbataha.Through this system, the Junior Primes concluded that: “By increasing the awareness of everyone, [the people] will be moved to help promote, protect and preserve our Philippine aquatic treasures in their own little way.”Like the Junior Primes, the group of seventh-grader Rey Allen Infante and high school juniors Anne Jazpher Raz and King Johnnel Olgado applied the “P3 System” (promotion, protection and propagation system) to their inventions. The Primes’ Basyang, ProTrek, ProGrow and ProTek concern mainly on the preservation of the Banaue Rice Terraces.Basyang, the travel teller promotional book, has the ability to narrate the story of the terraces through an NXT controller. It includes a video narrative in each turn of a page. The touch sensors let the reader choose between automatic and manual mode while the ultrasonic sensors are used for the manual flipping of pages. It also includes a short quiz about the terraces for an interactive experience with the tourists.The backpack promotion robot ProTrek, on the other hand, is a first of its kind. ProTrek serves as a tour guide for travelers. Its three NXT controllers operate the Tourist Tracker, a GPS-like Lego-based monitoring system, and the embedded sensors that enable its voice function. These NXTs serve as brains which communicate with the control center.
+ADVERTISEMENT
+
+
+
+
+
+Ensure safetyTo ensure safety on the traveler’s valuables, there is a card access system controlled by NXT programming and servo motors for the bag’s compartments. A light sensor turns on the automatic trekking lights.ProGrow, the propagation robot, can water and dispense food for plants, and can be easily navigated through its NXT controllers. It has a sensor that will accurately read the pH level of the soil.Lastly, the ProTek, a multi-faceted protection rover, is a weather and light alarm system with a special robotic arm for navigation. The sound sensor will set a signal sent to the control center once the wind gust limit is reached.To assure its efficiency, the group has tested its functions and features on the actual terraces in October 2013. When asked if robotics class should be mandatory, coach Beryl Cruz of DYCI team said “it would be better because the students can apply math and science, especially physics, in real-life situations. It’s an advantage.”The materials used by the students are original Lego educational parts provided by Felta Multimedia Philippines.After winning silver medals in the WRO tilt last November, the DYCI Robotics Team is currently gearing up for the First Lego League Philippines and next Philippine Robotics Olympiad in September.Subscribe to INQUIRER PLUS to get access to The Philippine Daily Inquirer & other 70+ titles, share up to 5 gadgets, listen to the news, download as early as 4am & share articles on social media. Call 896 6000.We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click this link.
+https://business.inquirer.net/164047/robots-for-world-heritage-preservation
